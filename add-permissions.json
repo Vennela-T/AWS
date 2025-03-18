@@ -1,0 +1,5 @@
+{
+    "Action": "lambda:InvokeFunction",
+    "Principal": "apigateway.amazonaws.com",
+    "StatementId": "AllowExecutionFromAPIGateway2"
+}

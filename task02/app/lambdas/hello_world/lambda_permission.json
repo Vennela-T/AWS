@@ -1,0 +1,6 @@
+{
+    "StatementId": "AllowExecutionFromAPIGateway",
+    "Action": "lambda:InvokeFunction",
+    "Principal": "apigateway.amazonaws.com",
+    "SourceArn": "arn:aws:execute-api:us-east-1:481665110417:pphy211uu3/*/GET/contacts"
+}

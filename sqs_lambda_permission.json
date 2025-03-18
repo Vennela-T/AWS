@@ -1,0 +1,7 @@
+{
+    "FunctionName": "cmtr-195d473f-s3-snlt-lambda",
+    "StatementId": "AllowSQSInvoke",
+    "Action": "lambda:InvokeFunction",
+    "Principal": "sqs.amazonaws.com",
+    "SourceArn": "arn:aws:sqs:us-east-1:68625594852:cmtr-195d473f-s3-snlt-queue"
+}

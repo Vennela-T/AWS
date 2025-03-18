@@ -1,0 +1,12 @@
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Principal": {
+                "AWS": "arn:aws:iam::135808935480:role/cmtr-195d473f-iam-ar-iam_role-assume"
+            },
+            "Action": "sts:AssumeRole"
+        }
+    ]
+}

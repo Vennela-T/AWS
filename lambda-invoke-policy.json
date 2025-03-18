@@ -1,0 +1,6 @@
+{
+    "StatementId": "AllowExecutionFromAPIGateway",
+    "Action": "lambda:InvokeFunction",
+    "Principal": "apigateway.amazonaws.com",
+    "SourceArn": "arn:aws:execute-api:us-east-1:442042521277:cmtr-195d473f-iam-lp-apigwv2_api/*"
+  }
