@@ -1,5 +1,0 @@
-{
-    "PolicyArn": "arn:aws:iam::aws:policy/AWSLambda_ReadOnlyAccess",
-    "RoleName": "cmtr-195d473f-iam-lp-iam_role"
-  }
-  
